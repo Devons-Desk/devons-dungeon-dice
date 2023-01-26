@@ -1,0 +1,70 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stone_button",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{dnd.roll.1:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stone_button",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{dnd.roll.2:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stone_button",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{dnd.roll.3:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stone_button",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{dnd.roll.4:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stone_button",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{dnd.roll.5:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:stone_button",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{dnd.roll.6:1b}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

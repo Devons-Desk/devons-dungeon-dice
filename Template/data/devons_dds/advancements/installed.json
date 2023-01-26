@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "[Devon's Desk Template]",
+        "description": "Datapack template using Devon's Desk preferences",
+        "icon": {
+            "item": "campfire"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:devonsdesk",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

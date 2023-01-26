@@ -1,0 +1,21 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:stone_button"
+              ],
+              "nbt": "{dnd.roll.5:1b}"
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "dd_template:dice/d6/detection/5"
+    }
+  }
+  
