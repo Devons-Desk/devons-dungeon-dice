@@ -1,0 +1,1 @@
+execute if score @s ddd.roll_die matches 1.. run function devons_dds:dice/dice_detection

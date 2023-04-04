@@ -1,9 +1,10 @@
 {
     "display": {
-        "title": "[Devon's Desk Template]",
-        "description": "Datapack template using Devon's Desk preferences",
+        "title": "[Devon's Dungeon Dice]",
+        "description": "Datapack adding tabletop-RPG-style dice to Minecraft.",
         "icon": {
-            "item": "campfire"
+            "item": "warped_fungus_on_a_stick",
+            "nbt": "{CustomModelData:5102301}"
         },
         "announce_to_chat": false,
         "show_toast": false

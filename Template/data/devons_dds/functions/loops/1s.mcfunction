@@ -1,2 +1,2 @@
-schedule function dd_template:loops/1s 15s
-execute as @e run function #dd_template:loaded/1s
+schedule function devons_dds:loops/1s 1s
+execute as @a run function #devons_dds:loaded/player_1s
