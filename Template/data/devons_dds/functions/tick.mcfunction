@@ -1,1 +1,0 @@
-execute as @e run function #dd_template:tick
