@@ -4,7 +4,7 @@ execute unless score $ddd.controller ddd.controller matches 1 run function devon
 
 ###INITIATESCHEDULES###
 #function dd_template:loops/10t
-function devons_dds:loops/1s
+function devons_dds:loops/15t
 #function dd_template:loops/8s
 #function dd_template:loops/15s
 

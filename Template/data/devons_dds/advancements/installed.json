@@ -4,7 +4,7 @@
         "description": "Datapack adding tabletop-RPG-style dice to Minecraft.",
         "icon": {
             "item": "warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:5102301}"
+            "nbt": "{CustomModelData:5102304}"
         },
         "announce_to_chat": false,
         "show_toast": false
