@@ -14,6 +14,7 @@ scoreboard objectives add ddd.d100 dummy
 scoreboard objectives add ddd.roll_die minecraft.used:minecraft.warped_fungus_on_a_stick
 
 scoreboard objectives add ddd.gm.raycast dummy
+scoreboard objectives add ddd.gm.loop1 dummy
 ###TEAMS###
 
 
