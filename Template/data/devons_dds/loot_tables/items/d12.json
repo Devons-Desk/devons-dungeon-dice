@@ -16,7 +16,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{ddd.d12:1b,CustomModelData:5102304}"
+              "tag": "{ddd.die:1b,ddd.d12:1b,CustomModelData:5102304}"
             }
           ]
         }
