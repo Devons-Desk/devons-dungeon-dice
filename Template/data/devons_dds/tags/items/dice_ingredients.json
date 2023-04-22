@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "copper_ingot",
+        "minecraft:red_dye",
+        "minecraft:blue_dye",
+        "minecraft:black_dye",
+        "minecraft:orange_dye",
+        "minecraft:lime_dye",
+        "minecraft:yellow_dye",
+        "minecraft:purple_dye" 
+    ]
+}
